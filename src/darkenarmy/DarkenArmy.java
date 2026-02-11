@@ -10,6 +10,7 @@ public class DarkenArmy extends Mod {
 public void loadContent() {
     DarkenArmyUnits.load();
     DarkenArmyBlocks.load();
+    DarkenArmyTechTree.load();
   
 
  }

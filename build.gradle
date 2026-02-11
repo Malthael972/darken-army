@@ -83,10 +83,7 @@ jar{
     from(projectDir){
         include "mod.hjson"
     }
-
-    from("assets/"){
-        include "**"
-    }
+}
 }
 
 task deploy(type: Jar){

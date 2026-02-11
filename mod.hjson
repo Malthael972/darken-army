@@ -1,7 +1,7 @@
 displayName: "Darken Army"
 name: "darkenarmy"
 author: "You"
-main: "darkenarmy.darkenarmy"
+main: "darkenarmy.DarkenArmy"
 description: "java testing for my mod"
 version: 1.0
 minGameVersion: 154

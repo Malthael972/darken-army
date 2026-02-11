@@ -31,7 +31,7 @@ import static arc.math.Angles.*;
 import static mindustry.Vars.*;
 
 public class DarkenArmyUnits {
-  public static TankUnitType darkStell;
+  public static UnitType darkStell;
   
   public static void load(){
     

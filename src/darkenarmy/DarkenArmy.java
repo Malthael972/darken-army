@@ -4,7 +4,7 @@ import arc.*;
 import mindustry.mod.Mod;
 import darkenarmy.content.DarkenArmyUnits;
 import darkenarmy.content.DarkenArmyBlocks;
-import darkenarmy.content.DarkArmyTechTree;
+import darkenarmy.content.DarkenArmyTechTree;
 
 public class DarkenArmy extends Mod {
     @Override

@@ -51,6 +51,17 @@ public class DarkenArmyUnits {
             researchCostMultiplier = 0f;
             tankMoveVolume *= 0.32f;
             tankMoveSound = Sounds.tankMoveSmall;
+            
+            parts.add(new TreadPart("dark-stell-treads"));
+
+            parts.add(new RegionPart("dark-stell-cell"){{
+            layerOffset = 0.01f;
+            }});
+
+parts.add(new RegionPart("weapons/dark-stell-weapon"){{
+    layerOffset = 0.02f;
+    rotate = true;
+}});
 
             weapons.add(new Weapon("dark-stell-weapon"){{
                 shootSound = Sounds.shootStell;

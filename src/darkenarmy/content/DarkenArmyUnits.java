@@ -58,10 +58,10 @@ public class DarkenArmyUnits {
             layerOffset = 0.01f;
             }});
 
-parts.add(new RegionPart("weapons/dark-stell-weapon"){{
-    layerOffset = 0.02f;
-    rotate = true;
-}});
+            parts.add(new RegionPart("weapons/dark-stell-weapon"){{
+            layerOffset = 0.02f;
+            rotate = true;
+            }});
 
             weapons.add(new Weapon("dark-stell-weapon"){{
                 shootSound = Sounds.shootStell;

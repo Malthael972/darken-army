@@ -8,8 +8,8 @@ import mindustry.ctype.*;
 
 import static mindustry.content.Blocks.*;
 import static mindustry.content.TechTree.*;
-import static darkarmy.content.DarkenArmyBlocks.*;
-import static darkarmy.content.DarkenArmyUnits.*;
+import static darkenarmy.content.DarkenArmyBlocks.*;
+import static darkenarmy.content.DarkenArmyUnits.*;
 
 public class DarkenArmyTechTree {
 

@@ -30,7 +30,7 @@ import static arc.graphics.g2d.Lines.*;
 import static arc.math.Angles.*;
 import static mindustry.Vars.*;
 
-public class DarkArmyUnits {
+public class DarkenArmyUnits {
   public static UnitType darkStell;
 
   public static void load(){

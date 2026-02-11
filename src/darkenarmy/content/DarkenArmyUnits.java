@@ -31,7 +31,7 @@ import static arc.math.Angles.*;
 import static mindustry.Vars.*;
 
 public class DarkenArmyUnits {
-  public static UnitType darkStell;
+  public @EntityDef({Unitc.class, Tankc.class}) UnitType darkStell;
 
   public static void load(){
     

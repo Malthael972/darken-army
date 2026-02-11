@@ -25,4 +25,5 @@ public class DarkenArmyTechTree {
                 darkStell.researchRequirements());
     
     }
+  }
 }

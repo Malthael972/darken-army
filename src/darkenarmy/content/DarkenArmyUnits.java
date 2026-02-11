@@ -66,7 +66,7 @@ public class DarkenArmyUnits {
                 y = -0.75f;
                 heatColor = Color.valueOf("f9350f");
                 cooldownTime = 30f;
-                weaponSprite = "dark-stell-weapon";
+                weaponSprite = "weapons/dark-stell-weapon";
 
                 bullet = new BasicBulletType(4f, 40){{
                     sprite = "missile-large";

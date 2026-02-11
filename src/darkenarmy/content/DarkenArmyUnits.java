@@ -24,7 +24,6 @@ import mindustry.type.weapons.*;
 import mindustry.type.Weapon;
 import mindustry.world.meta.*;
 import mindustry.content.StatusEffects;
-import mindustry.content.UnitType;
 
 import static arc.graphics.g2d.Draw.*;
 import static arc.graphics.g2d.Lines.*;
@@ -32,7 +31,7 @@ import static arc.math.Angles.*;
 import static mindustry.Vars.*;
 
 public class DarkenArmyUnits {
-  public static @EntityDef({Unitc.class, Tankc.class}) UnitType darkStell;
+  public static UnitType darkStell;
   
   public static void load(){
     

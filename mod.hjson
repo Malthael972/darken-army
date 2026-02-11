@@ -4,5 +4,5 @@ author: "You"
 main: "darkenarmy.darkenarmy"
 description: "java testing for my mod"
 version: 1.0
-minGameVersion: 150
+minGameVersion: 154
 java: true

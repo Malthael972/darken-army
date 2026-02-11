@@ -24,6 +24,7 @@ import mindustry.type.weapons.*;
 import mindustry.type.Weapon;
 import mindustry.world.meta.*;
 import mindustry.content.StatusEffects;
+import mindustry.content.UnitType;
 
 import static arc.graphics.g2d.Draw.*;
 import static arc.graphics.g2d.Lines.*;

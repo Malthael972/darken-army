@@ -84,7 +84,6 @@ jar{
         include "mod.hjson"
     }
 }
-}
 
 task deploy(type: Jar){
     dependsOn jarAndroid

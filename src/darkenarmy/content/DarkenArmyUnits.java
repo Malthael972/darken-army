@@ -50,6 +50,8 @@ public class DarkenArmyUnits {
             researchCostMultiplier = 0f;
             tankMoveVolume *= 0.32f;
             tankMoveSound = Sounds.tankMoveSmall;
+            cellSprite = "dark-stell-cell";
+            treadSprite = "dark-stell-treads";
 
             weapons.add(new Weapon("dark-stell-weapon"){{
                 shootSound = Sounds.shootStell;
@@ -64,6 +66,7 @@ public class DarkenArmyUnits {
                 y = -0.75f;
                 heatColor = Color.valueOf("f9350f");
                 cooldownTime = 30f;
+                weaponSprite = "dark-stell-weapon";
 
                 bullet = new BasicBulletType(4f, 40){{
                     sprite = "missile-large";

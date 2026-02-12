@@ -53,7 +53,7 @@ public class DarkenArmyUnits {
             tankMoveSound = Sounds.tankMoveSmall;
             
 
-            weapons.add(new Weapon("dark-stell-weapon"){{
+            weapons.add(new Weapon("weapons/dark-stell-weapon"){{
                 shootSound = Sounds.shootStell;
                 layerOffset = 0.0001f;
                 reload = 50f;
